@@ -1,0 +1,32 @@
+{"EXP_NAME": "lr_6e-4", "MODEL_NAME": "tf_efficientnet_b0_ns", "IM_SIZE": 224, "BATCH_SIZE": 64, "LEARNING_RATE": 0.0006, "LR_STEP": 30, "EPOCH": 1, "WARMUP_EPOCH": 10, "WEIGHT_DECAY": 0.0001, "VAL_BATCH_SIZE": 8, "VAL_HEIGHT": 300, "VAL_WIDTH": 400, "NUM_WORKER": 16, "PRINT_STEP": 10}
+**************************************************
+Training loss at epoch 0, iteration 9: 2.2911629676818848
+Training loss at epoch 0, iteration 19: 1.7270981073379517
+Training loss at epoch 0, iteration 29: 1.5257254962263436
+Training loss at epoch 0, iteration 39: 1.3669698651020343
+Training loss at epoch 0, iteration 49: 1.2744958656174796
+Training loss at epoch 0, iteration 59: 1.2018068362090548
+Training loss at epoch 0, iteration 69: 1.1490003691203352
+Training loss at epoch 0, iteration 79: 1.1108596249471736
+Training loss at epoch 0, iteration 89: 1.074422409695186
+Training loss at epoch 0, iteration 99: 1.0419240726364984
+Training loss at epoch 0, iteration 109: 1.0220213808597776
+Training loss at epoch 0, iteration 119: 1.0014774771798558
+Training loss at epoch 0, iteration 129: 0.9806130553862845
+Training loss at epoch 0, iteration 139: 0.9617262754937728
+Training loss at epoch 0, iteration 149: 0.943925425710294
+Training loss at epoch 0, iteration 159: 0.9238401263389947
+Training loss at epoch 0, iteration 169: 0.9093636530038167
+Training loss at epoch 0, iteration 179: 0.898189183220517
+Training loss at epoch 0, iteration 189: 0.8861148970783073
+Training loss at epoch 0, iteration 199: 0.8732170637828022
+Training loss at epoch 0, iteration 209: 0.8645535152779812
+Training loss at epoch 0, iteration 219: 0.8547722400595609
+Training loss at epoch 0, iteration 229: 0.8489467491229028
+Training loss at epoch 0, iteration 239: 0.8441860922709669
+Training loss at epoch 0, iteration 249: 0.8388676123925481
+Training loss at epoch 0, iteration 259: 0.8338773852379626
+------------------------------------------------
+Validating loss at epoch 0: 0.8883627495508176
+Validating accuracy at epoch 0: 0.6532370749883558
+**************************************************

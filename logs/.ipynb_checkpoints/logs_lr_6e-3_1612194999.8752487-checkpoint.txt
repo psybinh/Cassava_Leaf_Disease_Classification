@@ -1,0 +1,25 @@
+{"EXP_NAME": "exp_01_lr_6e-3", "MODEL_NAME": "tf_efficientnet_b0_ns", "IM_SIZE": 224, "BATCH_SIZE": 80, "LEARNING_RATE": 0.006, "LR_STEP": 30, "EPOCH": 1, "WARMUP_EPOCH": 10, "WEIGHT_DECAY": 0.0001, "VAL_BATCH_SIZE": 8, "VAL_HEIGHT": 300, "VAL_WIDTH": 400, "NUM_WORKER": 16, "PRINT_STEP": 10}Training loss at epoch 0, iteration 9: 2.055048690901862
+Training loss at epoch 0, iteration 19: 1.6264300973791825
+Training loss at epoch 0, iteration 29: 1.443788049549892
+Training loss at epoch 0, iteration 39: nan
+Training loss at epoch 0, iteration 49: nan
+Training loss at epoch 0, iteration 59: nan
+Training loss at epoch 0, iteration 69: nan
+Training loss at epoch 0, iteration 79: nan
+Training loss at epoch 0, iteration 89: nan
+Training loss at epoch 0, iteration 99: nan
+Training loss at epoch 0, iteration 109: nan
+Training loss at epoch 0, iteration 119: nan
+Training loss at epoch 0, iteration 129: nan
+Training loss at epoch 0, iteration 139: nan
+Training loss at epoch 0, iteration 149: nan
+Training loss at epoch 0, iteration 159: nan
+Training loss at epoch 0, iteration 169: nan
+Training loss at epoch 0, iteration 179: nan
+Training loss at epoch 0, iteration 189: nan
+Training loss at epoch 0, iteration 199: nan
+Training loss at epoch 0, iteration 209: nan
+------------------------------------------------
+Validating loss at epoch 0: 1.4519682718610851
+Validating accuracy at epoch 0: 0.6124825337680484
+**************************************************

@@ -1,0 +1,31 @@
+{"EXP_NAME": "exp_01_lr_3e-3", "MODEL_NAME": "tf_efficientnet_b0_ns", "IM_SIZE": 224, "BATCH_SIZE": 64, "LEARNING_RATE": 0.003, "LR_STEP": 30, "EPOCH": 1, "WARMUP_EPOCH": 10, "WEIGHT_DECAY": 0.0001, "VAL_BATCH_SIZE": 8, "VAL_HEIGHT": 300, "VAL_WIDTH": 400, "NUM_WORKER": 16, "PRINT_STEP": 10}
+Training loss at epoch 0, iteration 9: 1.9120456178983052
+Training loss at epoch 0, iteration 19: 1.5114910194748326
+Training loss at epoch 0, iteration 29: 1.3810675966328587
+Training loss at epoch 0, iteration 39: 1.2565879363280077
+Training loss at epoch 0, iteration 49: 1.201095621196591
+Training loss at epoch 0, iteration 59: 1.141676459272029
+Training loss at epoch 0, iteration 69: 1.1010255882705466
+Training loss at epoch 0, iteration 79: 1.0748927117903022
+Training loss at epoch 0, iteration 89: 1.0431408339671875
+Training loss at epoch 0, iteration 99: 1.0154971528534937
+Training loss at epoch 0, iteration 109: 0.9982414819778652
+Training loss at epoch 0, iteration 119: 0.9781246485830355
+Training loss at epoch 0, iteration 129: 0.9576279234516528
+Training loss at epoch 0, iteration 139: 0.9357015329728023
+Training loss at epoch 0, iteration 149: 0.9143435561016902
+Training loss at epoch 0, iteration 159: 0.8960329834020363
+Training loss at epoch 0, iteration 169: 0.8834312452367071
+Training loss at epoch 0, iteration 179: 0.8711514864220965
+Training loss at epoch 0, iteration 189: 0.8609856296153295
+Training loss at epoch 0, iteration 199: 0.8485404500110665
+Training loss at epoch 0, iteration 209: 0.8394038334987951
+Training loss at epoch 0, iteration 219: 0.8283362244362156
+Training loss at epoch 0, iteration 229: 0.8203855102239217
+Training loss at epoch 0, iteration 239: 0.8142808653320728
+Training loss at epoch 0, iteration 249: 0.8083651785151547
+Training loss at epoch 0, iteration 259: 0.8016199634111986
+------------------------------------------------
+Validating loss at epoch 0: 0.6704044483560424
+Validating accuracy at epoch 0: 0.7585002328830927
+**************************************************

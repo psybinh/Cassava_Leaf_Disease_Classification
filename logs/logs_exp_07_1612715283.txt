@@ -1,0 +1,26 @@
+{"EXP_NAME": "exp_07", "MODEL_NAME": "tf_efficientnet_b3_ns", "IM_SIZE": 300, "BATCH_SIZE": 32, "LEARNING_RATE": 0.001, "LR_STEP": 4, "EPOCH": 16, "WARMUP_EPOCH": 16, "WEIGHT_DECAY": 0.0001, "GRADIENT_COEFF": 2, "NORM_WEIGHTS": null, "VAL_BATCH_SIZE": 32, "NUM_WORKER": 16}
+**************************************************
+Training loss at epoch 0: 1.5447
+Training acc at epoch 0: 0.5076
+Validation loss at epoch 0: 0.9702
+Validation acc at epoch 0: 0.6667
+Training loss at epoch 1: 0.8708
+Training acc at epoch 1: 0.6876
+Validation loss at epoch 1: 0.7642
+Validation acc at epoch 1: 0.7210
+Training loss at epoch 2: 0.7456
+Training acc at epoch 2: 0.7306
+Validation loss at epoch 2: 0.6935
+Validation acc at epoch 2: 0.7408
+Training loss at epoch 3: 0.6737
+Training acc at epoch 3: 0.7537
+Validation loss at epoch 3: 0.6435
+Validation acc at epoch 3: 0.7676
+Training loss at epoch 4: 0.6443
+Training acc at epoch 4: 0.7659
+Validation loss at epoch 4: 0.6394
+Validation acc at epoch 4: 0.7706
+Training loss at epoch 5: 0.6434
+Training acc at epoch 5: 0.7695
+Validation loss at epoch 5: 0.6356
+Validation acc at epoch 5: 0.7699
